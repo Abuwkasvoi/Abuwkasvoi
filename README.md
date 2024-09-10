@@ -1,16 +1,19 @@
-## Hi there 👋
+# About me
+<p><h2>👋🏻Hey! I'm Abdullox Baxtiyorov. I'm Backend developer.</h2></p>
+- Telegram:                           [AbdulloxBaxtiyorov](https://t.me/Abuwkasvoi)
+## Main tools
+[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,docker)](https://skillicons.dev)
 
-<!--
-**Abuwkasvoi/Abuwkasvoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b><h2>Github Stats 📈 <h2></b></summary>
+  <a href="https://github.com/Abuwkasvoi">
+    <p align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abuwkasvoi&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oAbuwkasvoi&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abuwkasvoi&theme=github_dark&utcOffset=5"><br>
+    </p>
+  </a> 
+</details>
