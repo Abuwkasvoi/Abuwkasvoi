@@ -14,7 +14,7 @@
   <a href="https://github.com/Abuwkasvoi">
     <p align="left">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abuwkasvoi&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oAbuwkasvoi&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abuwkasvoi&theme=github_dark">
       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abuwkasvoi&theme=github_dark&utcOffset=5"><br>
     </p>
   </a> 
