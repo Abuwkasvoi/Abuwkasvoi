@@ -1,8 +1,10 @@
 # About me
 <p><h2>👋🏻Hey! I'm Abdullox Baxtiyorov. I'm Backend developer.</h2></p>
+
 - Telegram:                           [AbdulloxBaxtiyorov](https://t.me/Abuwkasvoi)
+
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,html,css)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman)](https://skillicons.dev)
